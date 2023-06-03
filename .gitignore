@@ -1,4 +1,6 @@
 cache
-.ipynb_checkpoints
 /data
 /rem-tutorial
+*.code-workspace
+*.ipynb_checkpoints
+*.png
